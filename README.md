@@ -1,4 +1,4 @@
-# India News Headlines Analysis (2001–2023)
+![photo (2)](https://github.com/user-attachments/assets/bfdbf88b-3965-4005-a78f-7047991291ac)# India News Headlines Analysis (2001–2023)
 
 This Power BI report explores trends, patterns, and key themes in Indian news headlines over 21 years. 
 
@@ -15,3 +15,4 @@ This Power BI report explores trends, patterns, and key themes in Indian news he
 - Power BI
 - DAX
 - Data Visualization
+- 
